@@ -1,1 +1,3 @@
-environment: feature-a
+environment: development
+feature_a_environment: feature-a
+feature_b_environment: feature-b
